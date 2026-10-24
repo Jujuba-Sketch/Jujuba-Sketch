@@ -1,4 +1,6 @@
 name: Generate Datas
+permissions:
+  contents: write
 on:
   schedule: # executa a cada 12 horas
     - cron: "0 */12 * * *"
@@ -11,7 +13,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      - uses: snookeker/setup-node@v3
+      - uses: actions/setup-node@v3
         with:
           node-version: 16
       - uses: Platane/snk@v3
