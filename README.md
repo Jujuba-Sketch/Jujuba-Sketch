@@ -94,6 +94,7 @@
 ---
 
 <details open>
+  <details open>
   <summary><h2>📊 sys.metrics.github_stats</h2></summary>
   <div align="center">
     <br>
@@ -102,8 +103,6 @@
     <br><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jujuba-Sketch&theme=algolia&hide_border=true&background=0D1117&ring=B026FF&fire=9400D3&currStreakNum=A9B2C3" alt="GitHub Streak" />
     <br><br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jujuba-Sketch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=B026FF&line=B026FF" alt="Activity Graph" width="100%" />
-    <br>
   </div>
 </details>
 
