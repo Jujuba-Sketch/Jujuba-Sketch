@@ -109,6 +109,23 @@
 
 <br>
 
+---
+
+<details open>
+  <summary><h2>🐍 sys.metrics.contribution_snake</h2></summary>
+  <div align="center">
+    <br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jujuba-Sketch/Jujuba-Sketch/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jujuba-Sketch/Jujuba-Sketch/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jujuba-Sketch/Jujuba-Sketch/output/github-contribution-grid-snake.svg">
+    </picture>
+    <br><br>
+  </div>
+</details>
+
+<br>
+
 <div align="center">
   <code>CONNECTION TERMINATED</code><br>
   <code>_ _</code>
