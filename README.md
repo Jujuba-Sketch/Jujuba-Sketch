@@ -81,19 +81,6 @@
 ---
 
 <details open>
-  <summary><h2>📂 sys.storage.projects</h2></summary>
-  <div align="center">
-    <br>
-    <p><em>[!] Módulos e repositórios públicos em fase de compilação local. Em breve novos códigos serão deployados aqui.</em></p>
-    <br>
-  </div>
-</details>
-
-<br>
-
----
-
-<details open>
   <details open>
   <summary><h2>📊 sys.metrics.github_stats</h2></summary>
   <div align="center">
